@@ -109,27 +109,3 @@
    cursor: pointer;
 }
 
-.form-container form .form-btn:hover{
-   background: green;
-   color:#fff;
-}
-
-.form-container form p{
-   margin-top: 10px;
-   font-size: 20px;
-   color:#333;
-}
-
-.form-container form p a{
-   color:red;
-}
-
-.form-container form .error-msg{
-   margin:10px 0;
-   display: block;
-   background: crimson;
-   color:#fff;
-   border-radius: 5px;
-   font-size: 20px;
-   padding:10px;
-}
